@@ -39,7 +39,7 @@ export class SeedService {
 
       const segments=url.split('/');
       const no:number=+segments[segments.length-2];
-      console.log(no);
+    
     
       //Insertar multiples registros simultáneamente
      /*  insertPromiseArray.push(this.pokemonService.create({name, no})) */
