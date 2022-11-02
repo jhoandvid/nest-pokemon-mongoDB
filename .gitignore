@@ -8,6 +8,7 @@ yarn.lock
 
 #variable de entorno
 .env
+.env.prod
 
 # Logs
 logs
